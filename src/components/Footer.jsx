@@ -1,8 +1,8 @@
 const Footer = () => {
     return (
-        <footer className="bg-dark-subtle py-3">
+        <footer>
             <div className="container">
-                <p className="text-center">React Final Project 2025</p>
+                <p className="text-center">React Final Project 2025. Jorge Mejia</p>
             </div>
         </footer>
     )
